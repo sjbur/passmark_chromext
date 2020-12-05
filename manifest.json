@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "PassMark CPU and GPU score checker",
+  "short_name": "Search PassMark score",
+  "description": "This extension allows the user to find easily find the score for wanted cpu or gpu.",
+  "version": "1.0",
+  "minimum_chrome_version": "38",
+  "permissions": [
+    "contextMenus", 
+    "tabs"
+  ],
+  "icons": {
+    "16": "assets/search.png"
+  },
+  "background": {"page": "background.html"}
+}
