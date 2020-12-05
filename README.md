@@ -1,2 +1,2 @@
 # passmark_chromext
-A chrome extension, build to make search for CPUs benchmarks faster. 
+A chrome extension, making the search for CPUs benchmarks faster. 
